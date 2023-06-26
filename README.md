@@ -1,5 +1,15 @@
-# How to install (Polish)
+# How to install
+## English
+Installation guide:
 
+1. Download the files and put them into the website directory.
+2. Create a folder named **img** inside the **static** folder, then put all pictures included in the repository inside it.
+3. Enter the site
+
+**[THIS WEBSITE IS NOT COMPLETE.]** That means it can have bugs, shortcomings etc. Becuase of this, it's free. You can freely edit it, however you are not allowed to sell it, puiblish it as "yours", or impersonate the author, and especially
+**remove info about the author**. However you can add yourself to the info as you edited this site.
+
+## Polish
 Instrukcja instalacji:
 
 1. Pobierz pliki i wgraj na serwer lub w lokalizacje strony.
